@@ -228,3 +228,9 @@ This project improved my practical understanding of:
 
 \- Domain-joined Windows client behavior
 
+
+## Documentation
+
+- [Help Desk Ticket Scenarios](tickets/tickets.md)
+- [Lab Topology](diagrams/lab-topology.md)
+- [Screenshots](screenshots)
